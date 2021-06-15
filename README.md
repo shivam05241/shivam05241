@@ -1,8 +1,3 @@
-- 👋 Hi, I’m Shivam Awasthi
-- 👀 I’m interested in Competitive Programming and Flutter App development
-- 🌱 I’m currently learning Flutter
-- 📫 Mail: shivam05241@gmail.com
-
 <!---
 shivam05241/shivam05241 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -27,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 <a href ="https://www.linkedin.com/in/shivam-awasthi-509448136/"> 
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a> 
-<a href="mailto:siddharth25pandey@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:shivam05241@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
  </p>
 
 <br /> <br />
