@@ -27,6 +27,13 @@ You can click the Preview link to take a look at your changes.
 </a> <br /> <br />
 
 
+<a href ="https://www.codechef.com/users/shivam_awasthi"> 
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Codechef%28new%29_logo.svg/1200px-Codechef%28new%29_logo.svg.png?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a> <br /> <br />
+
+
+
+
 
 
 
